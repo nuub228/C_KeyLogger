@@ -12,4 +12,3 @@
 
 
 ![alt text](https://i.ibb.co/GQvJYjg/Screenshot-2.png)
-![alt text](https://ibb.co/qk1wGz4/Screenshot-1.png)
