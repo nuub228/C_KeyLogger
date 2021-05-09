@@ -11,5 +11,5 @@
 3. Для автономности и независимости от "VCREDIST" нужно в: "Проект/Свойства/C-С++/Создание кода" в параметре "Библиотека времени выполнения" установить "Многопоточная (/MT)"
 
 
-![alt text](https://ibb.co/jkv50F7)
-![alt text](https://ibb.co/qk1wGz4)
+![alt text](https://i.ibb.co/GQvJYjg/Screenshot-2.png)
+![alt text](https://ibb.co/qk1wGz4/Screenshot-1.png)
